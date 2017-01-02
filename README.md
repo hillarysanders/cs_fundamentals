@@ -4,36 +4,36 @@ http://bigocheatsheet.com/
 Yahoo!
 
 #### Common Data Structures
-- [] array
-- [] stack
-- [] queue
-- [] linked lists:
- - [] singly linked
- - [] doubly linked
-- [] skip list
-- [] hash table
-- [] binary search tree
-- [] cartesian tree
-- [] B-tree
-- [] red-black tree
-- [] splay tree
-- [] AVL tree
-- [] KD tree
+- [ ] array
+- [ ] stack
+- [ ] queue
+- [ ] linked lists:
+ - [ ] singly linked
+ - [ ] doubly linked
+- [ ] skip list
+- [ ] hash table
+- [ ] binary search tree
+- [ ] cartesian tree
+- [ ] B-tree
+- [ ] red-black tree
+- [ ] splay tree
+- [ ] AVL tree
+- [ ] KD tree
 
 #### Common Array Sorting Algorithms
-- [] quicksort
-- [] mergesort
-- [] timsort
-- [] heapsort
-- [] bubble sort
-- [] insertion sort
-- [] selection sort
-- [] tree sort
-- [] shell sort
-- [] bucket sort
-- [] radix sort
-- [] counting sort
-- [] cubesort
+- [ ] quicksort
+- [ ] mergesort
+- [ ] timsort
+- [ ] heapsort
+- [ ] bubble sort
+- [ ] insertion sort
+- [ ] selection sort
+- [ ] tree sort
+- [ ] shell sort
+- [ ] bucket sort
+- [ ] radix sort
+- [ ] counting sort
+- [ ] cubesort
 
 #### Auxiliary / Other
 - [ ] Breadth-first search, depth-first search
