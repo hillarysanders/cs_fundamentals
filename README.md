@@ -13,6 +13,7 @@ Yahoo!
 - [ ] skip list
 - [ ] hash table
 - [ ] binary search tree
+- [ ] trie
 - [ ] cartesian tree
 - [ ] B-tree
 - [ ] red-black tree
@@ -22,7 +23,10 @@ Yahoo!
 
 #### Common Array Sorting Algorithms
 - [ ] quicksort
+- [ ] breadth first search
+- [ ] depth first search
 - [ ] mergesort
+- [ ] binary search
 - [ ] timsort
 - [ ] heapsort
 - [ ] bubble sort
@@ -36,10 +40,9 @@ Yahoo!
 - [ ] cubesort
 
 #### Auxiliary / Other
-- [ ] Breadth-first search, depth-first search
-- [ ] Binary search
-- [ ] 2D arrays
 - [ ] Dynamic arrays
-- [ ] Binary search trees
+- [ ] Factory Design Pattern
 - [ ] Dynamic programming
 - [ ] Big-O analysis
+- [ ] Memory (stack vs heap)
+- [ ] Bit manipulation
