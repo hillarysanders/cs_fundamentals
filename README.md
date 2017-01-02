@@ -1,6 +1,8 @@
 ## CS Fundamentals
 #### Implementing core data sctructures in python for practice.
 Yahoo!
+http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+http://bigocheatsheet.com/
 
 ### Graph
 
